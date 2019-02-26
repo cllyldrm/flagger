@@ -1,0 +1,1 @@
+﻿[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.ReadabilityRules", "SA1118:Parameter must not span multiple lines", Justification = "<Pending>", Scope = "member", Target = "~M:Flagger.Builders.QueryBuilder.Search(System.String,System.Collections.Generic.List{System.String},System.Int32)~Flagger.Builders.Interfaces.IQueryBuilder")]

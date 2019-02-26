@@ -1,2 +1,3 @@
-# flagger
-Reads error counts from elastic search and switches automatically specific feature toggles.
+<p align="center">
+    <img src="https://images.hepsiburada.net/mobile/gitContent/toggle.gif">
+</p>
